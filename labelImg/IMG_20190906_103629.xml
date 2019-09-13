@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Photos</folder>
+	<filename>IMG_20190906_103629.jpg</filename>
+	<path>D:\NECTEC\EST\Photos\IMG_20190906_103629.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3968</width>
+		<height>2976</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>totoro</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>919</xmin>
+			<ymin>388</ymin>
+			<xmax>2591</xmax>
+			<ymax>2375</ymax>
+		</bndbox>
+	</object>
+</annotation>
