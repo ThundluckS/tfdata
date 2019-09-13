@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Photos</folder>
+	<filename>IMG_20190906_112018.jpg</filename>
+	<path>D:\NECTEC\EST\Photos\IMG_20190906_112018.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3968</width>
+		<height>2976</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>nekobus</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>893</xmin>
+			<ymin>1044</ymin>
+			<xmax>2371</xmax>
+			<ymax>1997</ymax>
+		</bndbox>
+	</object>
+</annotation>
