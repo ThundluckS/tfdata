@@ -31,6 +31,8 @@ FLAGS = flags.FLAGS
 def class_text_to_int(row_label):
     if row_label == 'totoro':
         return 1
+    else if row_label == 'nekobus':
+        return 2
     else:
         None
 
