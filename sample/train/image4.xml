@@ -1,26 +1,26 @@
 <annotation>
 	<folder>Photos</folder>
-	<filename>image4.jpg</filename>
-	<path>D:\NECTEC\EST\Photos\IMG_20190906_104007.jpg</path>
+	<filename>image7.jpg</filename>
+	<path>D:\NECTEC\EST\Photos\IMG_20190906_103619.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>3968</width>
-		<height>2976</height>
+		<width>2976</width>
+		<height>3968</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>nekobus</name>
+		<name>totoro</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>241</xmin>
-			<ymin>1016</ymin>
-			<xmax>2088</xmax>
-			<ymax>2410</ymax>
+			<xmin>312</xmin>
+			<ymin>805</ymin>
+			<xmax>2555</xmax>
+			<ymax>2714</ymax>
 		</bndbox>
 	</object>
 </annotation>
