@@ -1,13 +1,13 @@
 <annotation>
-	<folder>Photos</folder>
+	<folder>train</folder>
 	<filename>image1.jpg</filename>
-	<path>D:\NECTEC\EST\Photos\IMG_20190906_104116.jpg</path>
+	<path>C:\Users\thundluck\Documents\GitHub\ThundluckS\tfdata\sample\train\image1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2976</width>
-		<height>3968</height>
+		<width>375</width>
+		<height>500</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>477</xmin>
-			<ymin>229</ymin>
-			<xmax>2782</xmax>
-			<ymax>2854</ymax>
+			<xmin>59</xmin>
+			<ymin>28</ymin>
+			<xmax>351</xmax>
+			<ymax>361</ymax>
 		</bndbox>
 	</object>
 </annotation>
