@@ -1,38 +1,26 @@
 <annotation>
-	<folder>Photos</folder>
+	<folder>train</folder>
 	<filename>IMG_20190906_105032.jpg</filename>
-	<path>D:\NECTEC\EST\Photos\IMG_20190906_105032.jpg</path>
+	<path>D:\NECTEC\Kid-Bright_AI\Temp\resim (2)\root\tfdata\images\train\IMG_20190906_105032.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>3968</width>
-		<height>2976</height>
+		<width>480</width>
+		<height>360</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
-	<object>
-		<name>totoro</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>206</xmin>
-			<ymin>485</ymin>
-			<xmax>1706</xmax>
-			<ymax>1935</ymax>
-		</bndbox>
-	</object>
 	<object>
 		<name>nekobus</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1268</xmin>
-			<ymin>1504</ymin>
-			<xmax>2012</xmax>
-			<ymax>2197</ymax>
+			<xmin>151</xmin>
+			<ymin>175</ymin>
+			<xmax>244</xmax>
+			<ymax>274</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +29,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1621</xmin>
-			<ymin>425</ymin>
-			<xmax>3575</xmax>
-			<ymax>2175</ymax>
+			<xmin>27</xmin>
+			<ymin>57</ymin>
+			<xmax>196</xmax>
+			<ymax>234</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>totoro</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>52</ymin>
+			<xmax>434</xmax>
+			<ymax>266</ymax>
 		</bndbox>
 	</object>
 </annotation>

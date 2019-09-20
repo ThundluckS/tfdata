@@ -1,26 +1,26 @@
 <annotation>
-	<folder>Photos</folder>
-	<filename>IMG_20190906_104933.jpg</filename>
-	<path>D:\NECTEC\EST\Photos\IMG_20190906_104933.jpg</path>
+	<folder>train</folder>
+	<filename>image5.jpg</filename>
+	<path>D:\NECTEC\Kid-Bright_AI\Temp\resim (2)\root\tfdata\images\train\IMG_20190906_105642.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2976</width>
-		<height>3968</height>
+		<width>480</width>
+		<height>640</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>nekobus</name>
+		<name>totoro</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>325</xmin>
-			<ymin>942</ymin>
-			<xmax>2296</xmax>
-			<ymax>2567</ymax>
+			<xmin>35</xmin>
+			<ymin>81</ymin>
+			<xmax>400</xmax>
+			<ymax>485</ymax>
 		</bndbox>
 	</object>
 </annotation>

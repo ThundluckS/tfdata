@@ -1,13 +1,13 @@
 <annotation>
-	<folder>Photos</folder>
+	<folder>train</folder>
 	<filename>IMG_20190906_104132.jpg</filename>
-	<path>D:\NECTEC\EST\Photos\IMG_20190906_104132.jpg</path>
+	<path>D:\NECTEC\Kid-Bright_AI\Temp\resim (2)\root\tfdata\images\train\IMG_20190906_104132.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>2976</width>
-		<height>3968</height>
+		<width>480</width>
+		<height>640</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>136</xmin>
-			<ymin>854</ymin>
-			<xmax>1744</xmax>
-			<ymax>2775</ymax>
+			<xmin>24</xmin>
+			<ymin>142</ymin>
+			<xmax>281</xmax>
+			<ymax>446</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1752</xmin>
-			<ymin>1812</ymin>
-			<xmax>2673</xmax>
-			<ymax>2808</ymax>
+			<xmin>282</xmin>
+			<ymin>294</ymin>
+			<xmax>427</xmax>
+			<ymax>447</ymax>
 		</bndbox>
 	</object>
 </annotation>
