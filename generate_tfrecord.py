@@ -58,7 +58,7 @@ def create_tf_example(group, path):
     xmaxs = []
     ymins = []
     ymaxs = []
-    classes_text = []
+    classes_text = [] 
     classes = []
 
     for index, row in group.object.iterrows():
